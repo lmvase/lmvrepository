@@ -55,8 +55,7 @@ begin
   Dictionary.Add('Buenos Aires', City);
 
   { Display the current number of key-value entries. }
-  writeln('Number of pairs in the dictionary: ' +
-  IntToStr(Dictionary.Count));
+  writeln('Number of pairs in the dictionary: ' +  IntToStr(Dictionary.Count));
 
   // Try looking up "Iasi".
   if (Dictionary.TryGetValue('Iasi', City) = True) then
@@ -88,7 +87,8 @@ begin
   if Dictionary.ContainsKey('London') then
   begin
     Dictionary.TryGetValue('London', City);
-    if (City.Country = 'United Kingdom') and (CompareValue(City.Latitude, 51.5, EPSILON) = EqualsValue) and (CompareValue(City.Longitude, -0.17, EPSILON) = EqualsValue) then
+    if (City.Country = 'United Kingdom') and (CompareValue(City.Latitude, 51.5, EPSILON) = EqualsValue) and
+     (CompareValue(City.Longitude, -0.17, EPSILON) = EqualsValue) then
       writeln('The value (United Kingdom, 51.5, -0.17) is in the dictionary.')
     else
       writeln('Error: The value (United Kingdom, 51.5, -0.17) is not in the dictionary.');
