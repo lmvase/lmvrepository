@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/14 18:07:57.000.978,=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/01 07:53:23.000.219,=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 14:46:34.000.357,=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 14:48:14.000.259,=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/05 14:48:35.000.031,C:\Utilitarios\Pessoais\github\WebSocket\Client\uMain.pas=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/05 14:48:35.000.031,C:\Utilitarios\Pessoais\github\WebSocket\Client\uMain.dfm=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/08/05 14:48:39.000.184,C:\Utilitarios\Pessoais\github\WebSocket\Client\PClient.dproj=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/05 20:40:52.000.192,C:\Utilitarios\Pessoais\github\WebSocket\Client\uMain.pas=C:\Utilitarios\Pessoais\github\WebSocket\Client\uMainClient.pas</Transaction>
+    <Transaction>2024/08/05 20:40:52.000.192,C:\Utilitarios\Pessoais\github\WebSocket\Client\uMain.dfm=C:\Utilitarios\Pessoais\github\WebSocket\Client\uMainClient.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

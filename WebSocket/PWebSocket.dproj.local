@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/14 18:07:57.000.978,=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/01 07:53:23.000.219,=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 10:07:37.000.700,=C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 10:14:40.000.715,C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Utilitarios\Unit1.dfm</Transaction>
+    <Transaction>2024/08/02 10:14:40.000.715,C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Utilitarios\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 10:23:06.000.420,C:\Users\leandro.vaso\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Utilitarios\Pessoais\github\PWebSocket.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
